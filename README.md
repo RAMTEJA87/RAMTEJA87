@@ -1,134 +1,178 @@
-<h1 align="center">Hi 👋, I'm Ram Teja Kalluri</h1>
-<h3 align="center">Software Developer | Java & DSA Enthusiast | Problem Solver</h3>
+<div align="center">
 
-<p align="center">
-  Computer Science undergraduate passionate about building scalable software applications and solving problems with strong fundamentals in Java, SQL, and Data Structures & Algorithms.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Ram%20Teja%20Kalluri&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20%7C%20Spring%20Boot%20%7C%20MERN%20%7C%20Generative%20AI&descSize=18&descAlignY=58" alt="Ram Teja Kalluri banner" width="100%" />
 
-<p align="center">
-  <a href="mailto:kalluriramteja@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=CS+Undergraduate+%7C+B.Tech+2027;500%2B+DSA+problems+solved;30%2B+REST+APIs+built+with+Spring+Boot;Hackathon+team+leader+and+finalist;Open+to+Java+%26+SDE+internships" alt="Typing animation of key highlights" />
 
----
+<br/>
 
-### 🎯 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ram-teja-kalluri-56b8822a8/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalluriramteja@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ramteja_kalluri/)
+[![GeeksforGeeks](https://img.shields.io/badge/GFG-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/kalluriramteja)
 
-- 🎓 B.Tech in Computer Science Engineering, Sri Vasavi Engineering College (2023–2027) — CGPA: **8.17/10**
-- 💻 Expertise in **Java, SQL, JDBC, OOPs, and Data Structures & Algorithms**
-- 🚀 Passionate about developing scalable software applications
-- 🏆 Solved **500+ DSA problems** in Java across LeetCode, GeeksforGeeks, and other platforms
-- 🌱 Actively exploring GenAI-powered application development
-- 💬 Ask me about Java, JDBC, MySQL, or DSA problem-solving
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+## 👨‍💻 About Me
 
-**Programming Languages**
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-</p>
-
-**Java Technologies**
-<p>
-  <img src="https://img.shields.io/badge/Core%20Java-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/JDBC-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Collections%20Framework-green?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Multithreading-red?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Exception%20Handling-yellow?style=flat-square"/>
-</p>
-
-**Databases**
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle%20Database-F80000?style=flat-square&logo=oracle&logoColor=white"/>
-</p>
-
-**Web Technologies**
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-</p>
-
-**Tools & Platforms**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white"/>
-</p>
-
-**Core CS Concepts**
-<p>
-  <img src="https://img.shields.io/badge/OOPs-informational?style=flat-square"/>
-  <img src="https://img.shields.io/badge/DSA-informational?style=flat-square"/>
-  <img src="https://img.shields.io/badge/DBMS-informational?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Operating%20Systems-informational?style=flat-square"/>
-  <img src="https://img.shields.io/badge/SDLC-informational?style=flat-square"/>
-</p>
+- 🎓 B.Tech in **Computer Science and Engineering** at Sri Vasavi Engineering College (2023–2027), CGPA **8.17/10**
+- ☕ Strong in **Java, Python and SQL**, with a focus on DSA and OOP
+- 🛠️ I build **Spring Boot** backends and **MERN** apps, and I'm exploring **Generative AI** and deep learning
+- 🏆 Led teams in **3 hackathons** and took part in 7+
+- 🎤 Coordinated a six-day **Microsoft AI Workshop** for 150+ students
+- 🔎 Looking for **Java developer and software development internships**
 
 ---
 
-### 🚀 Featured Projects
+## 🧰 Tech Stack
 
-#### 🏫 [College ERP Management System](#)
-`Core Java` `JDBC` `MySQL`
-- Developed a Java-based ERP with 7 integrated modules using JDBC and MySQL.
-- Implemented Student, Faculty, Attendance, Marks, Fees, Library, and Notifications modules.
+<div align="center">
 
-#### 🏦 [Banking System](#)
-`Core Java` `JDBC` `MySQL`
-- Developed an Online Banking System with Customer and Admin modules.
-- Implemented login, fund transfer, deposits, withdrawals, and transactions.
-- Designed a normalized MySQL database using JDBC and OOPs principles.
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,python,js,spring,nodejs,express,react,html,css,mongodb,mysql,pytorch,sklearn,numpy,git,github,postman,idea,vscode,vercel&perline=10" alt="Tech stack icons: Java, Python, JavaScript, Spring, Node.js, Express, React, HTML, CSS, MongoDB, MySQL, PyTorch, scikit-learn, NumPy, Git, GitHub, Postman, IntelliJ IDEA, VS Code, Vercel" />
+</a>
 
-#### 🎬 [AI-Powered YouTube Learning Assistant](#) · [Live Demo](#)
-`MERN` `GenAI`
-- Generated short, detailed, and chapter-wise summaries from YouTube videos.
-- Created AI-generated quizzes with instant feedback and doubt clarification.
-- Allowed users to track learning progress and access previously summarized videos.
+</div>
 
----
+<details>
+<summary><b>Full skill breakdown</b></summary>
+<br/>
 
-### 🏆 Achievements
+| Area | Skills |
+|---|---|
+| Languages | Java, Python, SQL, JavaScript |
+| Java | Core Java, Collections, Multithreading, Exception Handling, JDBC |
+| Backend | Spring Boot, Spring Security, REST APIs, Node.js, Express.js |
+| Frontend | React.js, HTML5, CSS3 |
+| Databases | MySQL, MongoDB, Relational Database Design |
+| AI / ML | PyTorch, Scikit-learn, NumPy, CNNs, Deep Learning, Generative AI |
+| CS Core | DSA, DBMS, Operating Systems, OOP |
+| Tools | Git, GitHub, Postman, IntelliJ IDEA, VS Code, Vercel, Render |
 
-- 🥇 Led a team shortlisted for the **Smart India Hackathon (SIH) 2025 Grand Finale** (PS25207)
-- 🥇 Led a team to the **final round of the Garuda Hackathon** held at Vishnu Institute of Technology
-- 🥇 **Team Lead & Final Round Qualifier** at Miracle Digital Summit 2025
-- 🧩 Participated in **7+ hackathons**, gaining experience in software development and team collaboration
-- 💡 **500+ DSA problems solved** in Java across LeetCode, GeeksforGeeks, and other coding platforms
+</details>
 
 ---
 
-### 🌟 Leadership & Extracurricular Activities
+## 🚀 Featured Projects
 
-- Coordinated a **6-day Microsoft AI workshop** attended by 150+ students
-- Coordinator for the **Junior Freshers Party**
-- Participated in **Miracle Digital Summit 2025** Tech Talks
-- Member of the **first-place Mathematics Day Skit Team**
+<table>
+<tr>
+<td width="100%">
+
+### 🎥 LearnTrack YT: YouTube Learning Assistant
+*An AI-powered platform that turns YouTube videos into structured learning resources.*
+
+- Chapter-wise summaries, quiz generation and AI doubt clarification using the **GROQ API**
+- Learning history and a responsive interface for authenticated users
+- Deployed live on Vercel with **50+ users**
+
+`MongoDB` `Express.js` `React` `Node.js` `Generative AI`
+
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/RAMTEJA87/learntrack-yt)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel)](https://learntrack-yt.vercel.app/auth)
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+### 📚 Online Course Management System (OCMS)
+*A secure, role-based backend for courses, enrollments and learner progress.*
+
+- **30+ REST APIs** for registration, course management and browsing
+- Enrollment, progress tracking, completion status and history on relational **MySQL** tables
+- **Spring Security** role-based authorization for 3 roles: admin, student, instructor
+
+`Java` `Spring Boot` `Spring Security` `MySQL`
+
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/RAMTEJA87/Online-Course-Management-System)
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+### 🧠 Noisy Partial Label Learning for Image Classification
+*A deep learning framework for classification when candidate labels are noisy.*
+
+- Handles datasets where the true class may be absent from the candidate-label set
+- Iterative label refinement and reliability-based learning, inspired by IRNet and ALIM
+- Evaluated with accuracy, Macro F1-score and noise-detection metrics
+
+`Python` `PyTorch` `Deep Learning`
+
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/RAMTEJA87/Noisy-Partial-Label-Learning-for-Robust-Image-Classification)
+
+</td>
+</tr>
+</table>
 
 ---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=RAMTEJA87&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAMTEJA87&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
+
+<img src="https://streak-stats.demolab.com/?user=RAMTEJA87&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RAMTEJA87&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" width="100%" />
+
+<img src="https://raw.githubusercontent.com/RAMTEJA87/RAMTEJA87/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="100%" />
+
+</div>
+
+<sub>GitHub stats cover GitHub activity only. My DSA practice is on [LeetCode](https://leetcode.com/u/ramteja_kalluri/) and [GeeksforGeeks](https://www.geeksforgeeks.org/profile/kalluriramteja).</sub>
+
+---
+
+## 🏅 Achievements and Leadership
+
+| Event | Result |
+|---|---|
+| SIH 2026 Internal Hackathon | Team leader, shortlisted for national-level selection |
+| Garuda Hackathon | Team leader, finalist |
+| Miracle Digital Summit 2025 Hackathon | Team leader, qualified for the final round |
+| Microsoft AI Workshop | Coordinator, six days, 150+ students |
+| DSA practice | 500+ problems on LeetCode and GeeksforGeeks |
 
 ### 📜 Certifications
 
-- **Oracle Certified Associate** – MySQL HeatWave Implementation Associate Rel
+[![OCI GenAI](https://img.shields.io/badge/Oracle-OCI_2025_Generative_AI_Professional-F80000?style=flat-square&logo=oracle&logoColor=white)](https://drive.google.com/file/d/1ff0yf71z4Ytx1O3j9PmcM0105L-AAFx0/view?usp=drive_link)
+[![MySQL HeatWave](https://img.shields.io/badge/Oracle-MySQL_HeatWave_Associate-F80000?style=flat-square&logo=oracle&logoColor=white)](https://drive.google.com/file/d/1CKXNPlVGFA_rNMi8DqUtb_HYzh9uJMAf/view?usp=drive_link)
+[![SAP ABAP Cloud](https://img.shields.io/badge/SAP-Back--End_Developer_ABAP_Cloud-0FAAFF?style=flat-square&logo=sap&logoColor=white)](https://drive.google.com/file/d/1VzmHkcK_6tOqfwkYyT_j2PLGknfZUO8k/view?usp=drive_link)
 
 ---
 
-### 📫 Connect With Me
+## 🎓 Education
 
-<p align="left">
-  📧 <a href="mailto:kalluriramteja@gmail.com">kalluriramteja@gmail.com</a> &nbsp;|&nbsp;
-  📱 +91 8340012789
-</p>
+| Qualification | Institution | Years | Score |
+|---|---|---|---|
+| B.Tech, CSE | Sri Vasavi Engineering College | 2023–2027 | CGPA 8.17/10 |
+| Intermediate | Sri Chaitanya Junior College | 2021–2023 | 91.2% |
+| SSC | Sri Saravani Public School | 2020–2021 | 93.83% |
 
-<p align="center">
-  <i>⭐️ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.</i>
-</p>
+---
+
+## 🌱 Currently Focused On
+
+- Deepening backend skills with **Java, Spring Boot and Spring Security**
+- Applying **Generative AI** in practical full-stack products
+- Continuing **DSA practice** for interview readiness
+
+---
+
+<div align="center">
+
+*I like building software that solves real problems, and I learn most from shipping it.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ram-teja-kalluri-56b8822a8/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kalluriramteja@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" alt="Footer wave" width="100%" />
+
+</div>
