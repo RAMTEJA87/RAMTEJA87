@@ -120,7 +120,6 @@
 
 <img src="https://streak-stats.demolab.com/?user=RAMTEJA87&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RAMTEJA87&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" width="100%" />
 
 <img src="https://raw.githubusercontent.com/RAMTEJA87/RAMTEJA87/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="100%" />
 
